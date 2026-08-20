@@ -1,4 +1,4 @@
-# Brendon Hurst | `Deadshroom`
+# Brendon Hurst | `"Deadshroom"`
 
 **AI & Automation Engineer | MCP · Agentic Systems · Workflow Architecture**
 
