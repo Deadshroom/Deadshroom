@@ -33,8 +33,7 @@ The goal is not to ask an LLM to guess what happened from raw logs. HALON first 
 
 > Observability tells you what the system reported. HALON is an experiment in reconstructing what actually happened.
 
-**Repository:** _add HALON repository link here_
-
+**[Repository](https://github.com/Deadshroom/HALON)**
 ---
 
 ### 🧠 JobOS
